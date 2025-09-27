@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.25.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_I1LY" Alignment="Left" TypographyId="Typography_02">
+        <Translation Language="GB">0.000</Translation>
+      </Text>
+      <Text Id="__SingleUse_OQVI" Alignment="Center" TypographyId="Typography_02">
+        <Translation Language="GB">偏置&#10; &lt;value&gt;V</Translation>
+      </Text>
+      <Text Id="__SingleUse_EFZX" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">0.0001</Translation>
+      </Text>
+      <Text Id="__SingleUse_OYQT" Alignment="Right" TypographyId="Large">
+        <Translation Language="GB">&lt;value&gt;us</Translation>
+      </Text>
+      <Text Id="__SingleUse_CDQ3" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">1.750V</Translation>
+      </Text>
+      <Text Id="__SingleUse_CNL2" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">Varv=&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZPZJ" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">0.0</Translation>
+      </Text>
+      <Text Id="__SingleUse_41VJ" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Bias&#10; &lt;value&gt;V </Translation>
+      </Text>
+      <Text Id="__SingleUse_T3HJ" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">3.500V</Translation>
+      </Text>
+      <Text Id="__SingleUse_FVUC" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">Vpp=&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_O1D2" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">3.0V</Translation>
+      </Text>
+      <Text Id="__SingleUse_9MX7" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">2.0V</Translation>
+      </Text>
+      <Text Id="__SingleUse_J6BD" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">0.000</Translation>
+      </Text>
+      <Text Id="__SingleUse_XDOU" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">3.500</Translation>
+      </Text>
+      <Text Id="__SingleUse_YOUU" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">1.0V</Translation>
+      </Text>
+      <Text Id="__SingleUse_KOKC" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">Vmin=&lt;value&gt;V</Translation>
+      </Text>
+      <Text Id="__SingleUse_OOD3" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">Vmax=&lt;value&gt;V</Translation>
+      </Text>
+      <Text Id="__SingleUse_UEYD" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">50000</Translation>
+      </Text>
+      <Text Id="__SingleUse_UOZE" Alignment="Right" TypographyId="Large">
+        <Translation Language="GB">&lt;value&gt;Hz</Translation>
+      </Text>
+      <Text Id="__SingleUse_P147" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">STOP</Translation>
+      </Text>
+      <Text Id="__SingleUse_0ZJC" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">RUN</Translation>
+      </Text>
+      <Text Id="__SingleUse_RP5U" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">128</Translation>
+      </Text>
+      <Text Id="__SingleUse_UBC6" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">64</Translation>
+      </Text>
+      <Text Id="__SingleUse_IWTH" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">32</Translation>
+      </Text>
+      <Text Id="__SingleUse_95PW" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">STOP</Translation>
+      </Text>
+      <Text Id="__SingleUse_DQZO" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">RUN</Translation>
+      </Text>
+      <Text Id="__SingleUse_QHT1" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">200us</Translation>
+      </Text>
+      <Text Id="__SingleUse_3EIZ" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">100us</Translation>
+      </Text>
+      <Text Id="__SingleUse_EZVN" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">50us</Translation>
+      </Text>
+      <Text Id="__SingleUse_G7VP" Alignment="Left" TypographyId="Typography_02">
+        <Translation Language="GB">360000</Translation>
+      </Text>
+      <Text Id="__SingleUse_5A27" Alignment="Left" TypographyId="Typography_02">
+        <Translation Language="GB">3.300</Translation>
+      </Text>
+      <Text Id="__SingleUse_YWLN" Alignment="Center" TypographyId="Typography_02">
+        <Translation Language="GB">当前频率&#10;&#10;&lt;value&gt;Hz</Translation>
+      </Text>
+      <Text Id="__SingleUse_BSD4" Alignment="Center" TypographyId="Typography_02">
+        <Translation Language="GB">幅值&#10;&lt;value&gt;V</Translation>
+      </Text>
+      <Text Id="__SingleUse_CI3A" Alignment="Left" TypographyId="Typography_02">
+        <Translation Language="GB">三角波</Translation>
+      </Text>
+      <Text Id="__SingleUse_UHLP" Alignment="Left" TypographyId="Typography_02">
+        <Translation Language="GB">锯齿波</Translation>
+      </Text>
+      <Text Id="__SingleUse_1XU6" Alignment="Left" TypographyId="Typography_02">
+        <Translation Language="GB">方波</Translation>
+      </Text>
+      <Text Id="__SingleUse_IB4F" Alignment="Left" TypographyId="Typography_02">
+        <Translation Language="GB">正弦波</Translation>
+      </Text>
+      <Text Id="__SingleUse_6ZTX" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">50us</Translation>
+      </Text>
+      <Text Id="__SingleUse_LPIS" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">100us</Translation>
+      </Text>
+      <Text Id="__SingleUse_BYO0" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">200us</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZHA4" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">RUN</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZAGL" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">STOP</Translation>
+      </Text>
+      <Text Id="__SingleUse_WKYH" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">DOWN</Translation>
+      </Text>
+      <Text Id="__SingleUse_22RG" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">UP</Translation>
+      </Text>
+      <Text Id="__SingleUse_6XQB" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">50us</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZIT5" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">100us</Translation>
+      </Text>
+      <Text Id="__SingleUse_7FZ9" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">200us</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="25" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9,a-z,A-Z,.-~" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9,a-z,A-Z,.-~" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_00" Font="verdana.ttf" Size="25" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="-" WildcardCharacterRanges="0-9,a-z,A-Z,.-~" />
+    <Typography Id="Typography_01" Font="Deng.ttf" Size="35" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="-" WildcardCharacterRanges="0-9,a-z,A-Z,.-~" />
+    <Typography Id="Typography_02" Font="Dengb.ttf" Size="35" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="-" WildcardCharacterRanges="0-9,a-z,A-Z,.-~" />
+  </Typographies>
+</TextDatabase>
