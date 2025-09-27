@@ -1,0 +1,2 @@
+stm32f469i-disco-rev-au1\image_dark_theme_images_widgets_slider_vertical_thin_filler_small.o: ../touchgfx/generated/images/src/__generated/image_dark_theme_images_widgets_slider_vertical_thin_filler_small.cpp
+stm32f469i-disco-rev-au1\image_dark_theme_images_widgets_slider_vertical_thin_filler_small.o: ../middlewares/st/touchgfx/framework/include/touchgfx/hal/Config.hpp

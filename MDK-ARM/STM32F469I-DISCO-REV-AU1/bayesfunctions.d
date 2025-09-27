@@ -1,0 +1,10 @@
+stm32f469i-disco-rev-au1\bayesfunctions.o: D:\Software\Keil_v5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\BayesFunctions\BayesFunctions.c
+stm32f469i-disco-rev-au1\bayesfunctions.o: D:\Software\Keil_v5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\BayesFunctions\arm_gaussian_naive_bayes_predict_f32.c
+stm32f469i-disco-rev-au1\bayesfunctions.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
+stm32f469i-disco-rev-au1\bayesfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+stm32f469i-disco-rev-au1\bayesfunctions.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f469i-disco-rev-au1\bayesfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+stm32f469i-disco-rev-au1\bayesfunctions.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32f469i-disco-rev-au1\bayesfunctions.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+stm32f469i-disco-rev-au1\bayesfunctions.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+stm32f469i-disco-rev-au1\bayesfunctions.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h

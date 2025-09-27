@@ -1,0 +1,17 @@
+stm32f469i-disco-rev-au1\svmfunctions.o: D:\Software\Keil_v5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\SVMFunctions\SVMFunctions.c
+stm32f469i-disco-rev-au1\svmfunctions.o: D:\Software\Keil_v5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\SVMFunctions\arm_svm_linear_init_f32.c
+stm32f469i-disco-rev-au1\svmfunctions.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
+stm32f469i-disco-rev-au1\svmfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+stm32f469i-disco-rev-au1\svmfunctions.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f469i-disco-rev-au1\svmfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+stm32f469i-disco-rev-au1\svmfunctions.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32f469i-disco-rev-au1\svmfunctions.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+stm32f469i-disco-rev-au1\svmfunctions.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+stm32f469i-disco-rev-au1\svmfunctions.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+stm32f469i-disco-rev-au1\svmfunctions.o: D:\Software\Keil_v5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\SVMFunctions\arm_svm_linear_predict_f32.c
+stm32f469i-disco-rev-au1\svmfunctions.o: D:\Software\Keil_v5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\SVMFunctions\arm_svm_polynomial_init_f32.c
+stm32f469i-disco-rev-au1\svmfunctions.o: D:\Software\Keil_v5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\SVMFunctions\arm_svm_polynomial_predict_f32.c
+stm32f469i-disco-rev-au1\svmfunctions.o: D:\Software\Keil_v5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\SVMFunctions\arm_svm_rbf_init_f32.c
+stm32f469i-disco-rev-au1\svmfunctions.o: D:\Software\Keil_v5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\SVMFunctions\arm_svm_rbf_predict_f32.c
+stm32f469i-disco-rev-au1\svmfunctions.o: D:\Software\Keil_v5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\SVMFunctions\arm_svm_sigmoid_init_f32.c
+stm32f469i-disco-rev-au1\svmfunctions.o: D:\Software\Keil_v5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Source\SVMFunctions\arm_svm_sigmoid_predict_f32.c

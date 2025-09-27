@@ -1,0 +1,124 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: μVision V5.32.0.0
+Copyright (C) 2020 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Y FENG, BJFU, LIC=9WSKC-78FIT-56RQ2-94256-BCKLB-J3JEA
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.32.0.0
+Toolchain Path:  D:\Software\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARMCM3.DLL V5.32.0.0
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.8.0
+Dialog DLL:      TCM.DLL V1.46.0.0
+ 
+<h2>Project:</h2>
+D:\Users\YFENG\Desktop\STM32F469I-DISCO-Analyzer\MDK-ARM\STM32F469I-DISCO-REV-AU1.uvprojx
+Project File Date:  07/03/2025
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'D:\Software\Keil_v5\ARM\ARMCC\Bin'
+Build target 'STM32F469I-DISCO-REV-AU1'
+compiling Screen1View.cpp...
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(38): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  		temp = (float64_t)(amplitude*(4095.0*(sinf(2.0*3.1416*i/100.0f)+1)/2.0 - 4095.0/2) + 4095.0/2 + 2047.0*bias);
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(38): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  		temp = (float64_t)(amplitude*(4095.0*(sinf(2.0*3.1416*i/100.0f)+1)/2.0 - 4095.0/2) + 4095.0/2 + 2047.0*bias);
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(190): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  	move += 124.0;//0.1*4096/3.3
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(191): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  	Unicode::snprintfFloat(textAreaBiasBuffer, 10, "%1.1f",move*3.300/4095.0);
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(195): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  	move -= 124.0;//0.1*4096/3.3
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(196): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  	Unicode::snprintfFloat(textAreaBiasBuffer, 10, "%1.1f",move*3.300/4095.0);
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(202): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  	factor -= 0.25;
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(206): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  	factor += 0.25;
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(248): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  		temp = (float64_t)(amplitude*(4095.0f*(sinf(2.0f*3.1416*i/100.0f)+1)/2.0f - 4095.0/2) + 4095.0/2 + 2047.0*bias);
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(248): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  		temp = (float64_t)(amplitude*(4095.0f*(sinf(2.0f*3.1416*i/100.0f)+1)/2.0f - 4095.0/2) + 4095.0/2 + 2047.0*bias);
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(265): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  		temp = (float64_t)(amplitude*(2*(4095.0*i/100.0f) - 4095.0/2) + 4095.0/2 + 2047.0*bias);
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(272): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  		temp =(float64_t)(amplitude*(2*(4095.0-4095.0*i/100.0f) - 4095.0/2) + 4095.0/2 + 2047.0*bias);
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(289): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  		temp = (float64_t)(amplitude*(4095.0*(i/52) - 4095.0/2) + 4095.0/2 + 2047.0*bias);
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(306): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  		temp = (float64_t)(amplitude*(4095.0*i/100.0f - 4095.0/2) + 4095.0/2 + 2047.0*bias);
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(337): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  	Unicode::snprintfFloat(textCurrentAmpBuffer, 10, "%4.3f",3.300 * amplitude);
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(349): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  	Unicode::snprintfFloat(textCurrentBiasBuffer, 10, "%4.3f",3.300 * bias);
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(412): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  		float32_t value_average = float32_t(value_sum) / 256.0;//均值计算
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(418): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  		Unicode::snprintfFloat(textAreaVarvBuffer, 10, "%4.3f",value_average*3.3/4096);
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(425): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  		for(int i=0;i<SAMPLE;i++)testInput_f32[i] = (AdcConvertedValue[i] - value_average )*3.300/4096;
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(472): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  				Unicode::snprintfFloat(textFFTTBuffer, 10, "%.4f", (1.0/mainFreqHz)*1000.0);
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(500): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  				Unicode::snprintfFloat(textFFTTBuffer, 10, "%.4f", (1.0/mainFreqHz)*1000.0);
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(528): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  				Unicode::snprintfFloat(textFFTTBuffer, 10, "%.4f", (1.0/mainFreqHz)*1000.0);
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(385): warning:  #177-D: variable "T"  was declared but never referenced
+  		uint32_t value_sum=0,max=0,min=4096,T=0,temp=AdcConvertedValue[0];
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(385): warning:  #177-D: variable "temp"  was declared but never referenced
+  		uint32_t value_sum=0,max=0,min=4096,T=0,temp=AdcConvertedValue[0];
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(386): warning:  #177-D: variable "length_sum"  was declared but never referenced
+  		int length_sum=0,count=0,last_max_index=0,riseFlag=0;
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(386): warning:  #177-D: variable "count"  was declared but never referenced
+  		int length_sum=0,count=0,last_max_index=0,riseFlag=0;
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(386): warning:  #177-D: variable "last_max_index"  was declared but never referenced
+  		int length_sum=0,count=0,last_max_index=0,riseFlag=0;
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(386): warning:  #177-D: variable "riseFlag"  was declared but never referenced
+  		int length_sum=0,count=0,last_max_index=0,riseFlag=0;
+../touchgfx/gui/src/screen1_screen/screen1view.cpp(411): warning:  #177-D: variable "value_diff"  was declared but never referenced
+  		uint32_t value_diff = max - min;//峰峰值计算
+../touchgfx/gui/src/screen1_screen/screen1view.cpp: 29 warnings, 0 errors
+linking...
+Program Size: Code=143608 RO-data=1576324 RW-data=1344 ZI-data=850288  
+FromELF: creating hex file...
+"STM32F469I-DISCO-REV-AU1\STM32F469I-DISCO-REV-AU1.axf" - 0 Error(s), 29 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.7.0.pack
+                ARM.CMSIS.5.7.0
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.4.0
+   * Component: DSP Variant: Library Version: 1.8.0
+
+Package Vendor: Keil
+                https://www.keil.com/pack/Keil.STM32F4xx_DFP.3.0.0.pack
+                Keil.STM32F4xx_DFP.3.0.0
+                STMicroelectronics STM32F4 Series Device Support
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_STM32F469I-DISCO-REV-AU1
+  D:\Software\Keil_v5\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include
+  D:\Software\Keil_v5\Packs\ARM\CMSIS\5.7.0\CMSIS\DSP\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.4.0
+
+   * Component: ARM::CMSIS:DSP:Library:1.8.0
+      Include file:  CMSIS\DSP\Include\arm_math.h
+      Library file:  CMSIS\DSP\Lib\ARM\arm_cortexM4lf_math.lib
+Build Time Elapsed:  00:00:04
+</pre>
+</body>
+</html>
